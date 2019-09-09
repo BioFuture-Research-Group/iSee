@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868589542599",
+    "firebase_url": "https://isee-24405.firebaseio.com",
+    "project_id": "isee-24405",
+    "storage_bucket": "isee-24405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868589542599:android:fb2e0538241464d825b2e2",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.image_labeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868589542599-fpv2tcfjj0b61a9naois6cmlglmpjafb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDajy_Nne79tX5eAhE_WGlnDedX_fdn0wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868589542599-fpv2tcfjj0b61a9naois6cmlglmpjafb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
